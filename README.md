@@ -1,1 +1,1 @@
-# gd_smiley
+# PHP GD Kütüphanesi ile tasarladığım gülen surat.
